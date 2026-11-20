@@ -132,6 +132,10 @@ main.container {
   letter-spacing: 0.02em;
 }
 
+.projects-heading {
+  font-size: 1.5rem;
+}
+
 .card p {
   line-height: 1.8;
   font-size: 0.98rem;
