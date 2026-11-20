@@ -132,7 +132,7 @@ main.container {
   letter-spacing: 0.02em;
 }
 
-.projects-heading {
+.card h2.projects-heading {
   font-size: 1.5rem;
 }
 
